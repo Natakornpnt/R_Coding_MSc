@@ -55,6 +55,7 @@ This code R was used for visualized GWAS results as manhattan plot, you can also
 This code R was used for generate correlation matrix and visual the matrix as heatmap
 
 11. linear_scatterplot.R and exponential_scatterplot.R
+
 These R codes was use for analyze linear and exponential regression and in each code was contained modified plot for visualized the model.
 
 12. histogram_loop.R

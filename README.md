@@ -7,6 +7,8 @@ Genome-Wide Association Study (GWAS),
 
 Calculating Heritability using lme4 package and Cullis function,
 
-Data Visualization, 
+Data Visualization,
+
+Data Transformation,
 
 and others

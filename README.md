@@ -67,7 +67,7 @@ Source code for performing Genome-Wide Association Study.
 
 2. GWAS_Code_modify.R
 
-This code R was used for Genome-Wide Association Study and this code required some out sources which I uploaded in Source_GWAS_R folder.
+This code R was used for Genome-Wide Association Study and this code required some outsources which I uploaded in Source_GWAS_R folder.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
